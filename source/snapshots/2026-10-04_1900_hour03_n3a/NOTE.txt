@@ -1,0 +1,1 @@
+n3a: H256 KB1 QB128 trained on gen1+2+3 (20.9M pos): +92 +/-47 vs n2a (120 games). H512 and KB4 variants lost to H256/KB1 despite lower val loss.

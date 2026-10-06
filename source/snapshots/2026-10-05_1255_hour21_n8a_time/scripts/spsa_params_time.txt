@@ -1,0 +1,7 @@
+# Name,init,min,max,c   (time management; run at real time control)
+TimeDiv,22,10,50,3
+IncPct,75,20,130,10
+SoftMaxPct,45,15,80,5
+HardMult10,35,20,70,4
+HardMaxPct,75,40,92,5
+StopFracPct,50,25,90,6

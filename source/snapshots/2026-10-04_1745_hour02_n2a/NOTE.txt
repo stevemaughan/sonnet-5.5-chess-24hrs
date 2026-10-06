@@ -1,0 +1,1 @@
+n2a: NNUE 768x256 KB1 trained on gen1+gen2 (12.2M pos), +86 +/-49 vs HCE v1 (120 games). corr-history+probcut on. embedded in exe

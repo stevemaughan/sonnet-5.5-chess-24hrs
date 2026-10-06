@@ -1,0 +1,1 @@
+n8a + SPSA3 search + time mgmt (StopFracPct70 TimeDiv18 IncPct90: +30 +/-18 at 3+0.03)

@@ -1,0 +1,1 @@
+option.ProbcutMargin=129 option.SeeQuiet=62 option.FutBase=117 option.NmpSlope=29 option.LmrHistDiv=3572 option.AspDelta=21 option.SeeCap=49 option.RfpMargin=60 option.RfpImp=73 option.HistPrune=2382 option.NmpEvalDiv=120 option.LmrBase=107 option.FutMult=133 option.LmrDiv=187 option.NmpBase=159

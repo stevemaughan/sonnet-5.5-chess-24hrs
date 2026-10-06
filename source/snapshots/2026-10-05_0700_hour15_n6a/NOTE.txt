@@ -1,0 +1,1 @@
+n6a: all data gen1..gen6b (51.6M); +35 +/-26 vs n5a at 100k fixed nodes

@@ -1,0 +1,1 @@
+SPSA3 tuned search (27 params incl LMR adjustments) + n5a; +23 +/-24 at 100k nodes

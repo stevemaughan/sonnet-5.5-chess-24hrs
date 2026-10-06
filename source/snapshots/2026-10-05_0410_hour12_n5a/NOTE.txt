@@ -1,0 +1,1 @@
+n5a: H256 trained on gen1-gen5 (40M pos; gen5 labeled by n4a + tuned search at 3000 nodes): +96 +/-25 vs n3a at 100k nodes. final = n5a + tuned search (e9, LMR fixed-point)

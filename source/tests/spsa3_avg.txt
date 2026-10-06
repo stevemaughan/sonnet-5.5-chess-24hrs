@@ -1,0 +1,1 @@
+ProbcutMargin=81 SeeQuiet=53 FutBase=123 LmrKillerMinus=15 LmrCutPlus=8 NmpSlope=33 HistBonusSub=133 NmpDiv=4 NmpR=4 LmrHistDiv=4115 LmrImpMinus=13 SeeCap=37 SingMargin=5 RfpMargin=63 LmrPvMinus=17 RfpImp=62 LmpBase=3 HistBonusMul=224 LmrCapMinus=32 FutMult=105 LmrBase=123 NmpBase=172 LmrDiv=229 CorrPct=90 LmrInCheckMinus=20 HistBonusMax=1715 LmrCheckMinus=26 

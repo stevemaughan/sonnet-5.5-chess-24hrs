@@ -1,0 +1,17 @@
+# Name,init,min,max,c
+RfpMargin,80,30,160,8
+RfpImp,50,0,120,8
+NmpSlope,18,0,50,3
+NmpBase,190,60,350,20
+NmpEvalDiv,180,80,400,20
+FutBase,80,0,250,15
+FutMult,90,30,200,12
+SeeQuiet,60,20,150,8
+SeeCap,80,20,200,10
+HistPrune,2500,500,6000,300
+LmrBase,75,20,130,8
+LmrDiv,225,150,350,15
+ProbcutMargin,170,80,300,15
+RazorMargin,260,100,500,25
+LmrHistDiv,6000,2000,14000,800
+AspDelta,18,8,40,3

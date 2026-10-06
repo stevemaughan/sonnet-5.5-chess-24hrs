@@ -1,0 +1,1 @@
+n7a: gen1..gen7 (57.8M pos): +15 +/-26 vs n6a at 100k nodes; final = n7a + SPSA3 search

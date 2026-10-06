@@ -1,0 +1,1 @@
+v1: first working engine. bitboard/PEXT movegen, perft suite passes depth1-6 (all 126 positions), PVS+TT+NMP+LMR+RFP+SEE, PeSTO-like linear eval. 38-2 vs stash-20 at 10+0.1. bench depth12 = 1585928 nodes
